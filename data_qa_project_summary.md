@@ -4,18 +4,6 @@ This project demonstrates **manual data validation and QA testing** on an Excel 
 
 ---
 
-## 📂 Project Structure
-
-excel-data-qa/
-├── datasets/
-│ └── sample_data.xlsx
-├── test-cases/
-│ └── data_validation_test_cases.xlsx
-├── data_qa_project_summary.md
-└── README.md
-
----
-
 ## ✅ Objective
 
 To simulate a real-world QA scenario where data from a source system must be validated before use in analytics or processing pipelines. The focus is on **data integrity**, **format validation**, and **manual QA techniques**.
