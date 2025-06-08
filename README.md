@@ -33,3 +33,9 @@ Ideal for demonstrating how Excel can be used in **manual QA**, **data cleanup**
 
 - Microsoft Excel (or Google Sheets for basic preview)
 - VBA (optional)
+
+
+## 📁 Projects
+
+- [🧪 Excel Data QA Project](data_qa_project_summary.md)  
+  Manual data quality validation project using Excel with documented test cases and defects.
